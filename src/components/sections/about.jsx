@@ -1,7 +1,7 @@
 function About() {
   return (
     <>
-      <section className="flex h-[80vh] flex-col items-center justify-start">
+      <section className="flex h-[90vh] flex-col items-center p-3 rem">
         <h1>About & Career</h1>
         <p className="max-w-[1000px] text-center">
           Hi! I am a dad and a Business Systems Analyst working in Mining and

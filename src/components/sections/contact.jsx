@@ -1,8 +1,8 @@
 function Contact() {
   return (
     <>
-      <section className="flex h-[90vh] flex-col items-center justify-start">
-        <h1>Contact Me</h1>
+      <section className="bg-[#0a0a0a] text-[#f3f4f6] flex h-[100vh] flex-col items-center justify-start w-[100%] p-3 rem">
+        <h1 className="text-[#f3f4f6]">Contact Me</h1>
         <div class="social">
           <ul>
             <li>
